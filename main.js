@@ -13,7 +13,7 @@ navLinks.forEach(link => {
 });
 
 var typed = new Typed(".text",{
-    strings:["Frontend Developer" , "Backend Developer"],
+    strings:["Welcome to My Portfolio" , "Nice to see You!"],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
